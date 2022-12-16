@@ -14,7 +14,7 @@ const AddTaskForm = ({ newTask, setNewTask, addTask }) => {
           <button
             onClick={addTask}
             className="btn btn-lg btn-success"
-          >Add Task</button>
+          >Agregar</button>
         </div>
       </div>
       <br />
